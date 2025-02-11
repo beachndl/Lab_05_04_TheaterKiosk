@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class TheaterKiosk {
     // Declaring constants
     private static final int LEGAL_AGE = 21;
 
